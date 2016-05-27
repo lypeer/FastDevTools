@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FastDevTools</string>
+    <string name="prompt_loading">loading…</string>
+</resources>
