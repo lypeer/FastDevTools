@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FastDevTools.iml" filepath="$PROJECT_DIR$/FastDevTools.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baseadapter/baseadapter.iml" filepath="$PROJECT_DIR$/baseadapter/baseadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/baseadapter.iml" filepath="$PROJECT_DIR$/lib/baseadapter.iml" />
     </modules>
   </component>
 </project>

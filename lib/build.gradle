@@ -90,7 +90,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "maven"	//发布到Bintray的哪个仓库
-        name = "TagCornerImageview"	//发布到Bintray上的名字
+        name = "FastDevTools"	//发布到Bintray上的名字
         desc = "A library include some tools to let your work faster"	//项目描述
         websiteUrl = siteUrl
         vcsUrl = gitUrl
